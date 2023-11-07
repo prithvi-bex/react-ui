@@ -12,5 +12,5 @@ const Template: ComponentStory<typeof HelloWorld> = (args) => (
 
 export const Default = Template.bind({});
 Default.args = {
-  name: 'World',
+  name: 'Prithvi',
 };
