@@ -1,5 +1,5 @@
 {
-  "name": "bex-ui",
+  "name": "bex-ui-2",
   "version": "1.1.2",
   "author": "maxgfr",
   "license": "MIT",
@@ -101,6 +101,7 @@
     "typescript": "^4.8.4"
   },
   "dependencies": {
+    "git": "^0.1.5",
     "tailwindcss": "^3.3.5"
   }
 }
